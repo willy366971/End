@@ -1,0 +1,87 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ATI FirePro V3800 (FireGL) (ID=0x68c9)
+    Vendor:   ATI
+    VRAM:     2029 MB
+    Driver:   8.773.1.1000
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\student\Downloads\3專\UI介面 - 複製\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\student\Downloads\3專\UI介面 - 複製\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\student\Downloads\3專\UI介面 - 複製\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\student\Downloads\3專\UI介面 - 複製\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\student\Downloads\3專\UI介面 - 複製\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\student\Downloads\3專\UI介面 - 複製\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\student\Downloads\3專\UI介面 - 複製\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\student\Downloads\3專\UI介面 - 複製\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\student\Downloads\3專\UI介面 - 複製\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\student\Downloads\3專\UI介面 - 複製\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\student\Downloads\3專\UI介面 - 複製\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\student\Downloads\3專\UI介面 - 複製\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.030 seconds
+Platform assembly: C:\Users\student\Downloads\3專\UI介面 - 複製\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\student\Downloads\3專\UI介面 - 複製\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.011205 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1644 -> priority: 1 
+  Thread -> id: 1e0c -> priority: 1 
+  Thread -> id: 494 -> priority: 1 
+  Thread -> id: 2448 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.087911 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 6258.
+Total: 1.721734 ms (FindLiveObjects: 0.216122 ms CreateObjectMapping: 0.095987 ms MarkObjects: 0.549964 ms  DeleteObjects: 0.859357 ms)
+
+Fungus:正在對話
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block mousetouchfailed to execute
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fungus:對話結束
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fungus:正在對話
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block unitychanfailed to execute
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fungus:對話結束
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.355045 ms
+
+Unloading 880 unused Assets to reduce memory usage. Loaded Objects now: 1797.
+Total: 6.138959 ms (FindLiveObjects: 0.102627 ms CreateObjectMapping: 0.088441 ms MarkObjects: 0.423189 ms  DeleteObjects: 5.524399 ms)
+
+Fungus:正在對話
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block mousetouchfailed to execute
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fungus:對話結束
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
